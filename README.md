@@ -25,6 +25,8 @@ Here's a walkthrough of implemented user stories:
 the first part includes all the feathers except create new accont
 the second gif has sign up part
 
+<img src='http://g.recordit.co/WF58GlUSAr.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 <img src='http://g.recordit.co/isnAozTLyq.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
