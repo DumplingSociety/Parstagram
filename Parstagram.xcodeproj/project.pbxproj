@@ -12,6 +12,7 @@
 		97408D2325E8A533002D44A0 /* instagram_assets in Resources */ = {isa = PBXBuildFile; fileRef = 97408D2225E8A533002D44A0 /* instagram_assets */; };
 		97408D2E25E8A7D5002D44A0 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97408D2D25E8A7D5002D44A0 /* LoginViewController.swift */; };
 		97408D3325E8A7ED002D44A0 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97408D3225E8A7ED002D44A0 /* FeedViewController.swift */; };
+		9786BD3325F584D10069E7A0 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9786BD3225F584D10069E7A0 /* CommentCell.swift */; };
 		97BC5FD625E8BDF200F9449E /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97BC5FD525E8BDF200F9449E /* CameraViewController.swift */; };
 		97BC5FDB25E96BB500F9449E /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97BC5FDA25E96BB500F9449E /* PostCell.swift */; };
 		97F7B6A525E8419E0026962D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97F7B6A425E8419E0026962D /* AppDelegate.swift */; };
@@ -47,6 +48,7 @@
 		97408D2225E8A533002D44A0 /* instagram_assets */ = {isa = PBXFileReference; lastKnownFileType = folder; name = instagram_assets; path = ../../../../Downloads/instagram_assets; sourceTree = "<group>"; };
 		97408D2D25E8A7D5002D44A0 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		97408D3225E8A7ED002D44A0 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
+		9786BD3225F584D10069E7A0 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		97BC5FD525E8BDF200F9449E /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		97BC5FDA25E96BB500F9449E /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
 		97F7B6A125E8419E0026962D /* Parstagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Parstagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -158,6 +160,7 @@
 				97408D3225E8A7ED002D44A0 /* FeedViewController.swift */,
 				97BC5FD525E8BDF200F9449E /* CameraViewController.swift */,
 				97BC5FDA25E96BB500F9449E /* PostCell.swift */,
+				9786BD3225F584D10069E7A0 /* CommentCell.swift */,
 			);
 			path = Parstagram;
 			sourceTree = "<group>";
@@ -425,6 +428,7 @@
 				97408D3325E8A7ED002D44A0 /* FeedViewController.swift in Sources */,
 				97F7B6A725E8419E0026962D /* SceneDelegate.swift in Sources */,
 				97BC5FDB25E96BB500F9449E /* PostCell.swift in Sources */,
+				9786BD3325F584D10069E7A0 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
